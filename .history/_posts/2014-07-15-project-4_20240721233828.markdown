@@ -1,0 +1,13 @@
+---
+title: Dew heaters controller
+subtitle: ASCOM compatible
+layout: default
+modal-id: 5
+status: Future development
+img: dewheater_controller.jpg
+thumbnail: dewheater_controller_thumb.jpg
+alt: image-alt
+availability: Somewhere in the future
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

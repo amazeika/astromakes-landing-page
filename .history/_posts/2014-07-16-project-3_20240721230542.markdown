@@ -1,0 +1,26 @@
+---
+title: Golden
+subtitle: Website Design
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+title: Power and data hub
+subtitle: ASCOM compatible
+layout: default
+modal-id: 3
+status: Future development
+img: powerhub.jpg
+thumbnail: powerhub_thumb.jpg
+alt: image-alt
+availability: Summer 2025
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

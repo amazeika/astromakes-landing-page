@@ -1,0 +1,48 @@
+url: https://y7kim.github.io
+baseurl: /3dastro-website/
+
+# Site settings
+title: ASTROmakes
+email: your-email@domain.com
+description: "Works???"
+
+
+# Team names, titles and social links
+people:
+- name: Arunas Mazeika
+  pic: 1
+  location: Nantes, France
+  position: Husband and father of two wonderful kids.
+  social:
+    - url: https://www.astrobin.com/users/arunasmazeika/
+      icon: fa icon-am-astrobin
+    - url: https://github.com/amazeika
+      icon: fa-brands fa-github
+    - url: https://x.com/arunasmazeika
+      icon: fa-brands fa-x-twitter
+    - url: https://www.facebook.com/amazeika
+      icon: fa-brands fa-facebook
+    - url: https://www.linkedin.com/in/arunasmazeika
+      icon: fa-brands fa-linkedin
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - url: https://x.com/astromakes_com
+    icon: fa-brands fa-x-twitter
+  - url: https://www.facebook.com/astromakes
+    icon: fa-brands fa-facebook
+  - url: http://stackoverflow.com/questions/tagged/jekyll
+    icon: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

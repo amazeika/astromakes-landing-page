@@ -1,0 +1,12 @@
+---
+title: Field rotator
+subtitle: ASCOM compatible
+layout: default
+modal-id: 2
+status: In development
+img: field_rotator.jpg
+thumbnail: field_rotator_thumb.jpg
+availability: Summer 2025
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

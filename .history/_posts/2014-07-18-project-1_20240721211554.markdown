@@ -1,0 +1,15 @@
+---
+title: Motorised flat panel
+subtitle: ASCOM compatible
+layout: default
+modal-id: 1
+status: Current
+img: flats.jpg
+thumbnail: flats_thumb.jpg
+alt: image-alt
+availability: Summer 2025
+client: Start Bootstrap
+category: Web Development
+description: Fuck
+
+---

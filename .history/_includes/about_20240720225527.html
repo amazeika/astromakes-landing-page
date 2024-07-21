@@ -1,0 +1,36 @@
+<!-- Team Section -->
+    <section id="about" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About me</h2>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.people %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li>
+                                <a href="{{ network.url }}">
+                                    <i class="fa fa-{{ network.title }}"></i>
+                                </a>
+                            </li>
+                            {% endfor %}
+
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">My name is <strong>Arunas</strong>, I live in France and I'm a husband and father of two wonderful kids. I have an engineering degree with minor on electronics and telecom systems, followed by a master's degree on signal processing. My professional journey somehow shifted around 2008 when I got hooked on web development. Today I'm a senior backend web developer working with the same team since 2012.</p>
+                </div>
+            </div>
+        </div>
+    </section>
