@@ -4,7 +4,7 @@ categories: designs
 status: Future development
 compatibility: ASCOM
 layout: default
-modal-id: 3
+modal-id: power-data-hub
 status: Future development
 img: powerhub.jpg
 thumbnail: powerhub_thumb.jpg
