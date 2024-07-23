@@ -1,10 +1,10 @@
 url: https://y7kim.github.io
-baseurl: /3dastro-website/
+baseurl: /astromakes/
 
 # Site settings
 title: ASTROmakes
 email: your-email@domain.com
-description: "Works???"
+description: "Astronomy and astrophotography DIY equipment kits"
 
 
 # Team names, titles and social links
@@ -12,7 +12,7 @@ people:
 - name: Arunas Mazeika
   pic: 1
   location: Nantes, France
-  position: Husband and father of two wonderful kids.
+  position: Husband and father of two wonderful kids
   social:
     - url: https://www.astrobin.com/users/arunasmazeika/
       icon: fa icon-am-astrobin
