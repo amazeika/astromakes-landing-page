@@ -1,0 +1,14 @@
+---
+title: Power and data hub
+categories: designs
+status: Future development
+compatibility: ASCOM
+layout: default
+modal-id: 3
+status: Future development
+img: powerhub.jpg
+thumbnail: powerhub_thumb.jpg
+alt: image-alt
+description: Development of a power and data routing system for cable management purposes. 
+
+---
